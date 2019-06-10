@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/exambaba/./static/css/main.2abffbca.chunk.css",
+    "main.js": "/exambaba/./static/js/main.fea1186c.chunk.js",
+    "main.js.map": "/exambaba/./static/js/main.fea1186c.chunk.js.map",
+    "runtime~main.js": "/exambaba/./static/js/runtime~main.a4d20f24.js",
+    "runtime~main.js.map": "/exambaba/./static/js/runtime~main.a4d20f24.js.map",
+    "static/js/2.9ed3b917.chunk.js": "/exambaba/./static/js/2.9ed3b917.chunk.js",
+    "static/js/2.9ed3b917.chunk.js.map": "/exambaba/./static/js/2.9ed3b917.chunk.js.map",
+    "index.html": "/exambaba/./index.html",
+    "precache-manifest.601f8fdef9608b03000242c4e5c8d654.js": "/exambaba/./precache-manifest.601f8fdef9608b03000242c4e5c8d654.js",
+    "service-worker.js": "/exambaba/./service-worker.js",
+    "static/css/main.2abffbca.chunk.css.map": "/exambaba/./static/css/main.2abffbca.chunk.css.map",
+    "static/media/search.bf3113cd.svg": "/exambaba/./static/media/search.bf3113cd.svg"
+  }
+}

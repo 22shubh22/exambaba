@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/exambaba/static/css/main.2abffbca.chunk.css",
-    "main.js": "/exambaba/static/js/main.b4079261.chunk.js",
-    "main.js.map": "/exambaba/static/js/main.b4079261.chunk.js.map",
+    "main.js": "/exambaba/static/js/main.2ce9a84f.chunk.js",
+    "main.js.map": "/exambaba/static/js/main.2ce9a84f.chunk.js.map",
     "runtime~main.js": "/exambaba/static/js/runtime~main.8078cad8.js",
     "runtime~main.js.map": "/exambaba/static/js/runtime~main.8078cad8.js.map",
     "static/js/2.5cf22272.chunk.js": "/exambaba/static/js/2.5cf22272.chunk.js",
     "static/js/2.5cf22272.chunk.js.map": "/exambaba/static/js/2.5cf22272.chunk.js.map",
     "index.html": "/exambaba/index.html",
-    "precache-manifest.5b8eb99e4cfa4dcbea86a0dd166d378f.js": "/exambaba/precache-manifest.5b8eb99e4cfa4dcbea86a0dd166d378f.js",
+    "precache-manifest.2baf0323342edd8009b134d03cb1124d.js": "/exambaba/precache-manifest.2baf0323342edd8009b134d03cb1124d.js",
     "service-worker.js": "/exambaba/service-worker.js",
     "static/css/main.2abffbca.chunk.css.map": "/exambaba/static/css/main.2abffbca.chunk.css.map",
     "static/media/search.bf3113cd.svg": "/exambaba/static/media/search.bf3113cd.svg"
